@@ -1,0 +1,30 @@
+[submodule "mods/tiny-leaders"]
+	path = mods/tiny-leaders
+	url = git@github.com:stellaris-mods/tiny-leaders.git
+[submodule "mods/tiny-outliner"]
+	path = mods/tiny-outliner
+	url = git@github.com:stellaris-mods/tiny-outliner.git
+[submodule "mods/tiny-planets"]
+	path = mods/tiny-planets
+	url = git@github.com:stellaris-mods/tiny-planets.git
+[submodule "mods/tiny-ship-designs"]
+	path = mods/tiny-ship-designs
+	url = git@github.com:stellaris-mods/tiny-ship-designs.git
+[submodule "mods/tiny-ship-construction"]
+	path = mods/tiny-ship-construction
+	url = git@github.com:stellaris-mods/tiny-ship-construction.git
+[submodule "mods/tiny-spaceport-modules"]
+	path = mods/tiny-spaceport-modules
+	url = git@github.com:stellaris-mods/tiny-spaceport-modules.git
+[submodule "mods/tiny-building-constructions"]
+	path = mods/tiny-building-constructions
+	url = git@github.com:stellaris-mods/tiny-building-constructions.git
+[submodule "mods/tiny-planet-overview"]
+	path = mods/tiny-planet-overview
+	url = git@github.com:stellaris-mods/tiny-planet-overview.git
+[submodule "mods/tiny-army-view"]
+	path = mods/tiny-army-view
+	url = git@github.com:stellaris-mods/tiny-army-view.git
+[submodule "mods/tiny-ship-components"]
+	path = mods/tiny-ship-components
+	url = git@github.com:stellaris-mods/tiny-ship-components.git
